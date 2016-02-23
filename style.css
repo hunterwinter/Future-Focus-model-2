@@ -1,0 +1,82 @@
+body {
+  background-color: rgba(128,128,128,0.3);
+  background: url("ponder.jpeg") no-repeat;
+  background-size: 100% 100%;
+  background-position: none;
+  padding-bottom: 1px;
+  margin-bottom:1px;
+}
+
+header{
+  font-family: sans-serif, times, arial;
+  position: relative;
+  top: -40px;
+  font-size: 125px;
+  width: 100%;
+  color: rgba(255,255,255,0.7);
+  border-color: white;
+  text-align: center;
+}
+
+.slogan{ 
+  font-family: times, arial;
+  font-size: 50px;
+  text-align: center;
+  font-style: italic;
+  color: #ffffff;
+  padding-top: 0;
+  margin-top: -100px;
+}
+
+.nav{
+  width: 100%;
+  float: left; 
+  list-style-type: none;
+  margin: ato;
+  padding-left: 0;
+  padding-top : -25px ;
+  padding-bottom : 10px;
+  background-color: white;
+} 
+  
+.nav li {
+  color : black;
+  float: left;
+  margin: 10px 10px;
+  font-size: 15px;
+}
+
+
+
+h2, h3, h4 { 
+  font-family : sans-serif, times;
+  font-style: bold;
+  font-size:30px;
+  color: black;
+}
+
+ol {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+}
+
+.container{
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+#advertisement{ 
+  position: relative;
+}
+
+h4{ 
+  text-align: center;
+}
+
+#advertisement p{
+  font-family: arial, times;
+  font-size: 25px;
+  text-align: center;
+  color : black;
+}
