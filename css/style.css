@@ -107,8 +107,8 @@ h2, h3, h4 {
 }
 
 .whylist{
-  margin-right:5%;
-  padding-left:8%;
+  margin: 0 0.5% 0 0.5%%;
+  padding-left:10%;
   background-color: rgba(139,131,134,0.8);
   list-style-type: upper-roman;
   font-size:1.25em;
