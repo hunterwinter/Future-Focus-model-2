@@ -8,12 +8,12 @@ body {
 
 @font-face {
   font-family: 'Quicksand';
-  src: url('../Quicksand-Light.otf');
-  src: url('../Quicksand-Light.eot');
-  src: url('../Quicksand-Light.eot?#iefix') format('embedded-opentype'),
-         url('../Quicksand-Light.woff') format('woff'),
-         url('../Quicksand-Light.ttf') format('truetype'),
-         url('../Quicksand-Light.svg#Quicksand') format('svg');
+  src: url('Quicksand-Light.otf');
+  src: url('Quicksand-Light.eot');
+  src: url('Quicksand-Light.eot?#iefix') format('embedded-opentype'),
+         url('Quicksand-Light.woff') format('woff'),
+         url('Quicksand-Light.ttf') format('truetype'),
+         url('Quicksand-Light.svg#Quicksand') format('svg');
   font-weight: normal;
   font-style: normal;
 }
